@@ -190,6 +190,7 @@ export default function ColocationsPage() {
           </div>
         </div>
       </header>
+      {/* s */}
 
       {/* Contenu principal */}
       <main className="container mx-auto px-4 py-8">
